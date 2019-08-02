@@ -40,7 +40,7 @@ void draw() {
 
   generateThenDraw(threshold, 6f, int(alpha));
 
-  saveFrame("frame-######.png");
+  //saveFrame("frame-######.png");
 }
 
 void mousePressed() {
